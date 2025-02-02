@@ -15,6 +15,7 @@ USETERMINAL = true
 
 -- The domains
 LOCALDOMAIN = "http://127.0.0.1:5001"
+domain = LOCALDOMAIN
 
 -- JSON library pastebin location
 JSONPASTEBIN = "NpW60mh3"
